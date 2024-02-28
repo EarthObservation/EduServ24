@@ -1,6 +1,6 @@
 # Remote Sensing and Change Detection with Sentinel Time Series Data
 
-Materials for the [*Remote Sensing and Change Detection with Sentinel Time Series Data*](https://geoclassroom.fgg.uni-lj.si/course/view.php?id=13).
+Materials for the [*Remote Sensing and Change Detection with Sentinel Time Series Data*](https://geoclassroom.fgg.uni-lj.si/course/view.php?id=16).
 
 Prepared by:  
 Krištof Oštir, Bujar Fetai, Matej Račič, Ana Potočnik Buhvald (University of Ljubljana)
