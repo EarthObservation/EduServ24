@@ -22,7 +22,7 @@ Here you can create a new environment for this tutorial using the provided envir
 
 ```
 conda update -n base -c defaults conda
-conda env create -file environment.yml
+conda env create --file environment.yml
 conda activate eo
 ```
 
